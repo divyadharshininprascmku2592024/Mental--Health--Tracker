@@ -1,0 +1,260 @@
+{
+  "moods": [
+    {
+      "date": "2026-07-30",
+      "mood": "Happy",
+      "moodRating": 8,
+      "stressLevel": 3,
+      "anxietyLevel": 2,
+      "note": "Had a productive morning study session and a great workout."
+    },
+    {
+      "date": "2026-07-31",
+      "mood": "Very Happy",
+      "moodRating": 9,
+      "stressLevel": 2,
+      "anxietyLevel": 2,
+      "note": "Completed my project milestone and celebrated with friends!"
+    },
+    {
+      "date": "2026-08-01",
+      "mood": "Neutral",
+      "moodRating": 6,
+      "stressLevel": 5,
+      "anxietyLevel": 4,
+      "note": "Quiet weekend day, caught up on chores and reading."
+    },
+    {
+      "date": "2026-08-02",
+      "mood": "Sad",
+      "moodRating": 4,
+      "stressLevel": 7,
+      "anxietyLevel": 6,
+      "note": "Felt tired and overwhelmed by upcoming exam schedules."
+    },
+    {
+      "date": "2026-08-03",
+      "mood": "Happy",
+      "moodRating": 7,
+      "stressLevel": 4,
+      "anxietyLevel": 3,
+      "note": "Morning yoga helped relieve stress, felt energized."
+    },
+    {
+      "date": "2026-08-04",
+      "mood": "Neutral",
+      "moodRating": 6,
+      "stressLevel": 5,
+      "anxietyLevel": 5,
+      "note": "Steady day at campus library."
+    },
+    {
+      "date": "2026-08-05",
+      "mood": "Very Happy",
+      "moodRating": 9,
+      "stressLevel": 2,
+      "anxietyLevel": 1,
+      "note": "Great feedback on seminar presentation!"
+    },
+    {
+      "date": "2026-08-06",
+      "mood": "Happy",
+      "moodRating": 8,
+      "stressLevel": 3,
+      "anxietyLevel": 3,
+      "note": "Nice evening stroll in the park with family."
+    },
+    {
+      "date": "2026-08-07",
+      "mood": "Very Sad",
+      "moodRating": 3,
+      "stressLevel": 8,
+      "anxietyLevel": 7,
+      "note": "Trouble focusing today due to poor sleep."
+    },
+    {
+      "date": "2026-08-08",
+      "mood": "Very Happy",
+      "moodRating": 9,
+      "stressLevel": 2,
+      "anxietyLevel": 2,
+      "note": "Recharged, started building full-stack project!"
+    }
+  ],
+  "journals": [
+    {
+      "date": "2026-07-30",
+      "title": "Starting the New Semester Strong",
+      "content": "Today marked the start of our final project sprint. I set clear goals for wellness, balance, and learning.",
+      "mood": "Happy"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Mindfulness & Reflection",
+      "content": "Spent an hour writing reflections. Realized how important consistent sleep routines are for mental clarity.",
+      "mood": "Neutral"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Overcoming Exam Pressure",
+      "content": "Felt a bit anxious earlier, but practicing 15 minutes of deep breathing completely shifted my perspective.",
+      "mood": "Happy"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Celebrating Small Wins",
+      "content": "Our group presentation went smoothly! Feeling proud of the team effort and looking forward to the weekend.",
+      "mood": "Very Happy"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Gratitude & Looking Forward",
+      "content": "Grateful for supportive mentors and friends. Tracking my daily mood and sleep is helping me maintain balance.",
+      "mood": "Very Happy"
+    }
+  ],
+  "sleep": [
+    {
+      "date": "2026-07-30",
+      "sleepTime": "22:30",
+      "wakeTime": "06:30",
+      "totalHours": 8.0,
+      "quality": "Good"
+    },
+    {
+      "date": "2026-07-31",
+      "sleepTime": "23:00",
+      "wakeTime": "07:30",
+      "totalHours": 8.5,
+      "quality": "Excellent"
+    },
+    {
+      "date": "2026-08-01",
+      "sleepTime": "23:30",
+      "wakeTime": "07:00",
+      "totalHours": 7.5,
+      "quality": "Good"
+    },
+    {
+      "date": "2026-08-02",
+      "sleepTime": "01:00",
+      "wakeTime": "06:00",
+      "totalHours": 5.0,
+      "quality": "Poor"
+    },
+    {
+      "date": "2026-08-03",
+      "sleepTime": "22:00",
+      "wakeTime": "06:00",
+      "totalHours": 8.0,
+      "quality": "Excellent"
+    },
+    {
+      "date": "2026-08-04",
+      "sleepTime": "23:00",
+      "wakeTime": "06:30",
+      "totalHours": 7.5,
+      "quality": "Average"
+    },
+    {
+      "date": "2026-08-05",
+      "sleepTime": "22:30",
+      "wakeTime": "07:00",
+      "totalHours": 8.5,
+      "quality": "Excellent"
+    },
+    {
+      "date": "2026-08-06",
+      "sleepTime": "23:00",
+      "wakeTime": "07:00",
+      "totalHours": 8.0,
+      "quality": "Good"
+    },
+    {
+      "date": "2026-08-07",
+      "sleepTime": "01:30",
+      "wakeTime": "06:00",
+      "totalHours": 4.5,
+      "quality": "Poor"
+    },
+    {
+      "date": "2026-08-08",
+      "sleepTime": "22:00",
+      "wakeTime": "07:00",
+      "totalHours": 9.0,
+      "quality": "Excellent"
+    }
+  ],
+  "activities": [
+    {
+      "date": "2026-07-30",
+      "activityName": "Morning Jog",
+      "category": "Exercise",
+      "duration": 30,
+      "description": "Ran 3km around campus track."
+    },
+    {
+      "date": "2026-07-31",
+      "activityName": "Mindfulness Breathing",
+      "category": "Meditation",
+      "duration": 15,
+      "description": "Guided relaxation routine."
+    },
+    {
+      "date": "2026-08-01",
+      "activityName": "Nature Walk",
+      "category": "Walking",
+      "duration": 45,
+      "description": "Walked in city botanical park."
+    },
+    {
+      "date": "2026-08-02",
+      "activityName": "Novel Reading",
+      "category": "Reading",
+      "duration": 40,
+      "description": "Read 2 chapters of Atomic Habits."
+    },
+    {
+      "date": "2026-08-03",
+      "activityName": "Sunset Yoga",
+      "category": "Yoga",
+      "duration": 30,
+      "description": "Stretching and posture realignment."
+    },
+    {
+      "date": "2026-08-04",
+      "activityName": "Guitar Practice",
+      "category": "Hobby",
+      "duration": 25,
+      "description": "Practiced fingerpicking chords."
+    },
+    {
+      "date": "2026-08-05",
+      "activityName": "Cycling",
+      "category": "Exercise",
+      "duration": 40,
+      "description": "Evening bicycle ride."
+    },
+    {
+      "date": "2026-08-06",
+      "activityName": "Guided Body Scan",
+      "category": "Meditation",
+      "duration": 20,
+      "description": "Post-study meditation."
+    },
+    {
+      "date": "2026-08-07",
+      "activityName": "Light Walk",
+      "category": "Walking",
+      "duration": 20,
+      "description": "Short walk after dinner."
+    },
+    {
+      "date": "2026-08-08",
+      "activityName": "Hatha Yoga Flow",
+      "category": "Yoga",
+      "duration": 35,
+      "description": "Morning energy flow."
+    }
+  ]
+}
